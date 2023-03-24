@@ -1,1 +1,19 @@
-/* write your override styles here */
+/* Hide graffiti tags */
+#wall .tag-1,
+#wall .tag-2,
+#wall .tag-3,
+#wall .tag-4,
+#wall .tag-5,
+#wall .tag-6,
+#wall .tag-7 {
+  display: none;
+}
+
+/* Additional overrides to hide more tags */
+#wall .tag-8,
+#wall .tag-9,
+#wall .tag-10,
+#wall .tag-11,
+#wall .tag-12 {
+  display: none;
+}
